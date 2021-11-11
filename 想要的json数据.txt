@@ -1,0 +1,9 @@
+
+解析前的json数据
+https://github.com/wo-caonima/json/blob/master/wzvideo.json
+
+json原始数据----我门想要的json数据，只是json数据
+https://raw.githubusercontent.com/wxyass/json/master/wzvideo.json
+https://raw.githubusercontent.com/wxyass/json/master/_LIST.TXT
+
+https://raw.githubusercontent.com/wo-caonima/json/master/wzvideo.json
